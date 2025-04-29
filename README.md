@@ -18,3 +18,4 @@ By reducing the current randomness in music promotion and giving smaller or inde
 - Download the preprocessed dataset here: [Google Drive link to dataset](https://drive.google.com/file/d/1LG642eXvzRxJq-UFX-Aqrxdra_4p2dKy/view?usp=sharing)
 - Open the ipynb file, and connect your google drive account. Make sure to upload the dataset to your drive.
 - After the dataset has been uploaded, make sure to change the path to dataset, which can be configured with the cell at the top that `%cd "drive/MyDrive/CS7643"`
+- Now run each cell, following through the Experiment and Results headers
