@@ -15,4 +15,4 @@ By reducing the current randomness in music promotion and giving smaller or inde
 ## How to set up project
 
 - Clone the repo.
-- Download the preprocessed dataset here: [https://drive.google.com/file/d/1LG642eXvzRxJq-UFX-Aqrxdra_4p2dKy/view?usp=sharing]{Google Drive link to dataset}
+- Download the preprocessed dataset here: [Google Drive link to dataset](https://drive.google.com/file/d/1LG642eXvzRxJq-UFX-Aqrxdra_4p2dKy/view?usp=sharing)
